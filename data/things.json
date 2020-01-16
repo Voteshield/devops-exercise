@@ -1,0 +1,22 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Thing 1",
+    "description": "A thing that is a thing, but only one thing."
+  },
+  "2": {
+    "id": "2",
+    "name": "THING 02",
+    "description": "The second thing in our list, though just procedural."
+  },
+  "3": {
+    "id": "3",
+    "name": "thing3.0",
+    "description": "Oh, that thing; a third of a whole."
+  },
+  "4": {
+    "id": "4",
+    "name": "THiNg 4x1",
+    "description": "The last of all things that things could be."
+  }
+}
