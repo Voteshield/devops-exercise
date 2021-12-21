@@ -51,4 +51,5 @@ def pretty_json(arg):
 
 
 if __name__ == "__main__":
+    print("starting server...")
     app.run(port=5000)
