@@ -13,7 +13,7 @@ This exercise provides a "thing" REST API.
 
 ## Install
 
-- Install with `requirements.txt`
+- Install with [poetry](https://python-poetry.org/)
 
 ## Development
 
