@@ -21,11 +21,14 @@ This exercise provides a "thing" REST API.
 
 ## Deployment
 
-TODO
+Local
+- docker build -t devops-exercise .
+- docker run devops-exercise
 
 ## Testing
 
 - Run `python tests.py`
+- docker run devops-exercise tests.py
 
 ## Credits
 
