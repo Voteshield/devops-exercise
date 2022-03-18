@@ -8,6 +8,7 @@ This exercise is to meant to test your DevOps skill and problem-solving skills. 
 - Please make sure you are committing your work.
 - Submit your work as an archive of the project directory including the Git information.
 - If you cannot finish or do all the things you would like to do in the suggested time, please note things you would like to do in the `README.md` or `NOTES.md` file.
+- There may be areas of the code that could be improved. You can choose to do more to demonstrate your talents, but please do not exceed the 60 minute time limit.
 
 ## Containerization
 
