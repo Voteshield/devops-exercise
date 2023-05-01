@@ -6,7 +6,7 @@ authors = ["voteshield"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-Flask = "^2.0.2"
+Flask = "^2.3.2"
 
 [tool.poetry.dev-dependencies]
 
